@@ -9,6 +9,7 @@ e3a9a6d4ecbd420aab6f8d55050567df janzada
 ee05c97cc97943f4adce05ce85cafcea nagin
 2f18e601e85c4870921de80f1de35f28 abubakar
 40f47ab59f0a4c4a9dc475fea92351c0 rosh
+f7a0ee4b98924b06a07ae1ddd66512d0 nawabzada
 ee6d46693c7746d99d74e1b3a914d61b ahad bhatti
 9ac6fe195060480fac2ccff87e7d1b98 ali wato
 acbc54fdd9cf43b3bd964b9a1f988b3c sania
